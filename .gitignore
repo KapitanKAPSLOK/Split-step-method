@@ -339,3 +339,6 @@ ASALocalRun/
 # BeatPulse healthcheck temp database
 healthchecksdb
 /results
+/results_stare_row
+*.rar
+/results_nowe_row
