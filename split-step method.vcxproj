@@ -20,10 +20,12 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\progress_bar.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="dislin\include\discpp.h" />
     <ClInclude Include="include\fftw3.h" />
+    <ClInclude Include="src\progress_bar.hpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
