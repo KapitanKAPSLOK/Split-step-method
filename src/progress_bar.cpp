@@ -3,7 +3,7 @@
 ProgressBar::ProgressBar() {
 	completed = 0;
 	stages = 20;
-	std::cout << std::setw(50) << "[";
+	std::cout << std::setw(30) << "[";
 	for (int i = 0; i < stages; ++i) {
 		std::cout << '-';
 	}
