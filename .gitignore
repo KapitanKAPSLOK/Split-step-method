@@ -3,6 +3,11 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+/results
+*.rar
+splitStepInput.in
+
+
 # User-specific files
 *.rsuser
 *.suo
@@ -338,7 +343,3 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
-/results
-/results_stare_row
-*.rar
-/results_nowe_row
